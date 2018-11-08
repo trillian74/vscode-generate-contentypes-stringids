@@ -2,7 +2,7 @@
     "name": "contenttype-id-generator",
     "displayName": "contenttype-id-generator",
     "description": "Generates SharePoint ContentTypesStringIDs",
-    "publisher": "Ole Bergtun",
+    "publisher": "OleBeefyBoiBergtun",
     "version": "0.1.0",
     "engines": {
         "vscode": "^1.28.0"
